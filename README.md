@@ -1,1 +1,0 @@
-# Mochila_Tabraj_Jhonatan
