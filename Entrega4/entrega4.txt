@@ -1,0 +1,2 @@
+1) ¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+  El lenguaje de programación puede estar limitado a ciertos sistemas operativos debidoa diferencias en la arquitectura y diseño de cada sistema. Algunos lenguajes están específicamente diseñados para funcionar en un entorno particular, aprobechando características específicas del sistema operativo. Además, la disponibilidad de copiladores o intérpretes compatibles tambien pueden influir en la portabilidad del lenguajea diferentes plataformas.
